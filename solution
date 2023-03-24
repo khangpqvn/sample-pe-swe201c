@@ -71,3 +71,15 @@ Level of understanding of user requirements by the developers: Agile methodology
 User involvement in the project
 This refers to the level of participation expected from users during the software development process. For this system, user involvement is considered average - it is not too low, nor too high. Accordingly, Agile's focus on client interaction, continuous deployment, and frequent updates makes it an ideal choice.
 
+
+
+level 1: As a student,                                                                                      As a student,                                               As a professor, 
+         I want to be able                                                                                  I want to view                                              I want to manage
+         to select courses                                                                                  my schedule                                                 course details	
+         
+level 2: Select course modal    | Course details        |Current semester courses  | Suggested Courses|     View Schedule  |  Manage Schedule                        |  View/manage courses
+
+level 3: Pagination option      | Ability to search     |Ability to filter courses | Ability to save  |     Print schedule |  Ability to add or   |  Ability to edit |  Add/update  |  Assign TA  | Message students 
+                                | for specific courses  |by professor, time or day | selected courses |                    |  remove courses from |  the schedule    |  course      |  to course  | taking my courses
+                                                                                                                           |  the schedule        |                  |  information |             |
+                                
