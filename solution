@@ -13,3 +13,34 @@ The system should be available 24/7 with minimal downtime.
 The system should be able to handle at least 1000 concurrent users.
 
 
+Functional and Non-functional Requirements for a new System
+
+Functional Requirements
+Allow students to register in courses
+Allow professors to upload course materials and assignments
+Allow professors to grade and leave feedback on student submissions
+Provide a calendar that shows important academic events such as midterm exams, finals, and holidays
+Allow students to view their grades, schedule, and personal information
+Provide a messaging system for communication between students and professors
+Allow administrators to add, remove, or edit courses and update student records
+
+Non-functional Requirements
+The system must be user-friendly and accessible for individuals with disabilities
+The system must load quickly and have high availability
+The system should adhere to best security practices to protect the privacy of the users’ data.
+
+User Stories
+Student Role
+User Story 1
+As an undergraduate student, I want to be able to access my course schedule online so that I can easily plan my study time.
+
+User Story 2
+As a graduate student, I want to be able to message my professor directly from the course page so that I can quickly ask questions about course materials or assignments when I need help.
+
+Professor Role
+User Story 1
+As a computer science professor, I want to be able to grade student assignments and provide feedback using a rubric so that grading is more consistent and less time-consuming.
+
+User Story 2
+As a physics professor, I want to be able to upload lecture notes in PDF format from my desktop computer rather than having to physically bring printed copies to the classroom.
+
