@@ -44,3 +44,30 @@ As a computer science professor, I want to be able to grade student assignments 
 User Story 2
 As a physics professor, I want to be able to upload lecture notes in PDF format from my desktop computer rather than having to physically bring printed copies to the classroom.
 
+As a student
+I want to log into the system with my username and password.
+I want to view my courses on the dashboard screen.
+I want to be able to enroll/unenroll in any course easily.
+I want to submit an assignment in any course before the deadline.
+I want to view my completed and pending assigned work.
+As a professor
+I want to log in to the system with my username and password.
+I want to view all of the courses I am teaching on one screen.
+I want to add/delete/modify course content as necessary.
+I want to set deadlines for assignments and homework for each course.
+I want to be notified when a student submits their work.
+
+Suggested Software Development Model:
+The most suitable software development model for this system is Agile methodology. Here are the reasons why it would be a good fit based on the following criteria:
+
+Requirements characteristics
+Reliability: One of the main advantages of using Agile is that it includes regular testing throughout the development process, which makes the system more reliable.
+Types and number of requirements: Agile is flexible enough to handle many types of requirements for this system (both functional and non-functional).
+How often the requirements can change: Agile is designed to manage changes in requirements easily, which is perfect given that requirements for an education system could be ever-changing.
+Can the requirements be defined at an early stage? Yes, Agile provides the opportunity to define requirements at an early stage by breaking development processes into stages.
+Development Team
+Team size: Agile is structured to work well with teams of programmers, designers, testers.
+Level of understanding of user requirements by the developers: Agile methodology emphasizes collaboration between clients and developers, which means clear communication and understanding of requirements are made a top priority.
+User involvement in the project
+This refers to the level of participation expected from users during the software development process. For this system, user involvement is considered average - it is not too low, nor too high. Accordingly, Agile's focus on client interaction, continuous deployment, and frequent updates makes it an ideal choice.
+
