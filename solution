@@ -1,0 +1,15 @@
+List of Functional Requirements:
+The system should allow users to register for an account.
+The system should allow users to log in and out of their accounts.
+The system should provide a search functionality for users.
+The system should allow users to create new posts.
+The system should allow users to edit or delete their own posts.
+The system should allow users to follow or unfollow other users.
+The system should generate notifications for the users for different actions like receiving new messages or following a new user.
+
+List of Non-Functional Requirements:
+The system's response time should be less than 2 seconds.
+The system should be available 24/7 with minimal downtime.
+The system should be able to handle at least 1000 concurrent users.
+
+
